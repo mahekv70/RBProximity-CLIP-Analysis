@@ -2,12 +2,6 @@
 
 Custom analysis script associated with the RBProximity-CLIP study.
 
-## Script
-
-```text
-scripts/filter_tc_conversions.py
-```
-
 ## Requirements
 
 - Python 3
@@ -16,7 +10,7 @@ scripts/filter_tc_conversions.py
 ## Example usage
 
 ```bash
-python scripts/filter_tc_conversions.py input.bam output.bam
+python filter_tc_conversions.py input.bam output.bam
 ```
 
 ## Notes
