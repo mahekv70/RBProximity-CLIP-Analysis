@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Filter fPAR-CLIP BAM alignments for diagnostic T-to-C conversions.
+Filter PAR-CLIP/fPAR-CLIP BAM alignments for diagnostic T-to-C conversions.
 
 This script retains only mapped reads containing:
     - T>C mismatches on the forward strand
