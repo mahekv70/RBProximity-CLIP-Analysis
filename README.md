@@ -1,11 +1,11 @@
 # RBProximity-CLIP-analysis
 
-Computational scripts associated with the RBProximity-CLIP study.
+Custom analysis script associated with the RBProximity-CLIP study.
 
-## Repository structure
+## Script
 
 ```text
-scripts/    Custom analysis scripts
+scripts/filter_tc_conversions.py
 ```
 
 ## Requirements
@@ -22,7 +22,3 @@ python scripts/filter_tc_conversions.py input.bam output.bam
 ## Notes
 
 Input BAM files must contain MD tags.
-
-## Code availability
-
-Custom scripts used in this study are provided in this repository.
